@@ -1,0 +1,13 @@
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.exe
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.deps.json
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.runtimeconfig.json
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.runtimeconfig.dev.json
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.dll
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\bin\Debug\netcoreapp3.1\RunWorkPrograms.pdb
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.csprojAssemblyReference.cache
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.csproj.CoreCompileInputs.cache
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.AssemblyInfoInputs.cache
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.AssemblyInfo.cs
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.dll
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.pdb
+C:\Users\parbj\source\repos\RunWorkPrograms\RunWorkPrograms\obj\Debug\netcoreapp3.1\RunWorkPrograms.genruntimeconfig.cache
